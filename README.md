@@ -42,4 +42,4 @@ finally run models.py (only need data/agg_sia_ind_{}.csv)
 I seperates these steps due to large computing power required, but by saving csv I can run in the middle.
 
 ## report
-[click me](report.pdf)
+check ./report.pdf or [click me](report.pdf)
